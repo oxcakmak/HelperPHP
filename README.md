@@ -10,8 +10,7 @@ Everyone's time should be valuable, so please consider donating.
 [https://buymeacoffee.com/oxcakmak](https://buymeacoffee.com/oxcakmak)
 
 ### Installation
-To utilize this class, first import PdoDb.php into your project, and require it.
-
+You can create a folder called Helper in the Helper.php file, or you can directly call the function classes you will use in any folder.
 ```php
 require_once 'Helper.php';
 ```
